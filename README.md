@@ -1,2 +1,2 @@
 # speed-test
-Console-style speed test application in written in Python
+Console-style speed test application written in Python
